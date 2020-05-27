@@ -1,1 +1,1 @@
-# speedie
+You need Docker installed on your local machine to build the container.  You can download it at https://www.docker.com/products/docker-desktop.  After installed you can cd into the cloned git repository on your local machine and run 'docker build .'.
